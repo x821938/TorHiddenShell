@@ -1,0 +1,6 @@
+DataDirectory Data
+GeoIPFile Data\geoip
+Log notice file Data\tor.log
+
+HiddenServiceDir Data\HiddenService
+HiddenServicePort 8888 127.0.0.1:4444
